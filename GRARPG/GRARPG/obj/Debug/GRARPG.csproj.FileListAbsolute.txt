@@ -1,0 +1,11 @@
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.csprojAssemblyReference.cache
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.Form1.resources
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.Properties.Resources.resources
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.csproj.GenerateResource.cache
+C:\Users\Johny\source\repos\GRARPG\GRARPG\bin\Debug\GRARPG.exe.config
+C:\Users\Johny\source\repos\GRARPG\GRARPG\bin\Debug\GRARPG.exe
+C:\Users\Johny\source\repos\GRARPG\GRARPG\bin\Debug\GRARPG.pdb
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.exe
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.pdb
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.Form2.resources
+C:\Users\Johny\source\repos\GRARPG\GRARPG\obj\Debug\GRARPG.Form3.resources
