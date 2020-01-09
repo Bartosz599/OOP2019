@@ -16,7 +16,10 @@ namespace GRARPG
         public int wybor, hp, eng, def, dps;
         public int hp2, eng2, def2, dps2;
 
-        
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -134,7 +137,7 @@ namespace GRARPG
                 pictureBox1.ImageLocation = @"c:\Images\icon2.jpg";
                
             }
-            else
+            else if(wybor==3)
             {
                 label3.Text = "Max rage";
                 pictureBox1.ImageLocation = @"c:\Images\icon3.jpg";

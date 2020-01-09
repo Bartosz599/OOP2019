@@ -40,7 +40,7 @@ namespace GRARPG
             {
                 label8.Text = "dex";
                 pictureBox1.ImageLocation = @"c:\Images\icon1.jpg";
-                return new Lotrzyk(50,100, 100, 25, 1, 0, 100, 100, text1, 75, 75);
+                return new Lotrzyk(50,100, 100, 25, 1, 150, 100, 100, text1, 75, 75);
                 
             }
             if (wybor == 2)
@@ -124,7 +124,7 @@ namespace GRARPG
                     statystyki();
 
                 }
-                if (wybor == 2)
+                else if (wybor == 2)
                 {
                     Form3 f3 = new Form3(wybor, Bohater.hp_max, Bohater.mp_max, Bohater.def, Bohater.Int);
                     this.Hide();
@@ -136,7 +136,7 @@ namespace GRARPG
                     Bohater.lvl_next = Bohater.lvl_next * 2;
                     statystyki();
                 }
-                else
+                else if(wybor==3)
                 {
                     Form3 f3 = new Form3(wybor, Bohater.hp_max, Bohater.rage_max, Bohater.def, Bohater.str);
                     this.Hide();
